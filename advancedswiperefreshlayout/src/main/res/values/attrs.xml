@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AdvancedSwipeRefreshLayout">
+        <attr name="load_more_text" format="string" />
+        <attr name="error_text" format="string" />
+        <attr name="cancel_text" format="string" />
+        <attr name="retry_text" format="string" />
+    </declare-styleable>
+</resources>
